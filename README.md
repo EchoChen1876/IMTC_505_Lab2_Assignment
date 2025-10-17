@@ -44,3 +44,7 @@ Watch the unlisted demo video here:
 4. **Build and Run**
 
     Then put on your VR headset and explore the demo.
+   
+## 📄 Explanation
+
+Related explanations can be found in the **Explanation of Lab 2.docx** file in this repository.
